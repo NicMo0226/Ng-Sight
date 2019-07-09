@@ -2,11 +2,20 @@
   height: 100%;
   padding-top: 80px;
   position: fixed;
-  background-color: #191F26;
+  background-color: rgb(16, 16, 24);
+
+}
+
+.side {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
 }
 
 #dashboard {
   margin-top: 60px;
+  floAT: right;
+
+
 }
 
 #navbar {

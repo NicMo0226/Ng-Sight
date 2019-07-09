@@ -43,7 +43,8 @@ a:hover {
 }
 
 .card-body-theme {
-  background-color: #494f56;
+  background-color: #20262c;
+  border: inset 3px #293036;
 }
 
 .cards {
