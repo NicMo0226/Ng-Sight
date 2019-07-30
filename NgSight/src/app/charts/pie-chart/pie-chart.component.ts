@@ -9,11 +9,7 @@ export class PieChartComponent implements OnInit {
   constructor() {}
 
   pieChartData: number[] = [350, 450, 120];
-  pieChartLabels: string[] = [
-    "XYZ Logistics",
-    "Main Street Butchers",
-    "Bournemouth Funeral Directors"
-  ];
+  pieChartLabels: string[] = ["Diamond Range", "Watches", "Summer Sale"];
   colors: any[] = [
     {
       backgroundColor: ["#26547c", "#ff6b6b", "#ffd166"]
